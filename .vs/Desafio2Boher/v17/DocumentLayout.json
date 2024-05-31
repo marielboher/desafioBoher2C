@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Database\\GestorBDDVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\models\\ususario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\ususario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\models\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\productodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\database\\gestorbddusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\gestorbddusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\models\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\productovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\database\\gestorbddproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\gestorbddproductovendido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\database\\gestorbddproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:database\\gestorbddproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestorBDDVenta.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDVenta.cs",
+              "RelativeDocumentMoniker": "Database\\GestorBDDVenta.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDVenta.cs",
+              "RelativeToolTip": "Database\\GestorBDDVenta.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:24:10.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\Venta.cs",
+              "RelativeToolTip": "Models\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T19:23:46.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\ProductoVendido.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoVendido.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\ProductoVendido.cs",
+              "RelativeToolTip": "Models\\ProductoVendido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:34:40.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorBDDUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDUsuario.cs",
+              "RelativeDocumentMoniker": "Database\\GestorBDDUsuario.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDUsuario.cs",
+              "RelativeToolTip": "Database\\GestorBDDUsuario.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswH8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:33:36.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ususario.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\Ususario.cs",
+              "RelativeDocumentMoniker": "Models\\Ususario.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\Ususario.cs",
+              "RelativeToolTip": "Models\\Ususario.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:29:21.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:27:51.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoData.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\ProductoData.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoData.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Models\\ProductoData.cs",
+              "RelativeToolTip": "Models\\ProductoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:20:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestorBDDProductoVendido.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDProductoVendido.cs",
+              "RelativeDocumentMoniker": "Database\\GestorBDDProductoVendido.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDProductoVendido.cs",
+              "RelativeToolTip": "Database\\GestorBDDProductoVendido.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAswHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:35:32.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestorBDDProducto.cs",
+              "DocumentMoniker": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDProducto.cs",
+              "RelativeDocumentMoniker": "Database\\GestorBDDProducto.cs",
+              "ToolTip": "C:\\Users\\joaco\\Desktop\\maru\\c#\\Desafio2Boher\\Database\\GestorBDDProducto.cs",
+              "RelativeToolTip": "Database\\GestorBDDProducto.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T20:27:55.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
